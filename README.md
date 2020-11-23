@@ -1,2 +1,1 @@
-# Psss
-asd
+Bu bi Password Generator  rahatca kullan.
